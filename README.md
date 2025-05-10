@@ -37,3 +37,4 @@ Automation: Make / Rasheed
 ⚙️ System Architecture
 
 Our system integrates a frontend chat interface with a backend RAG-powered data analysis engine, connected to distributed transaction databases and autonomous workflow automation tools.
+link to NOVA : https://app.rasheed.ai/en/chatbot/share/487e20eb-5522-49cd-975b-ac456da0920e
